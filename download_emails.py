@@ -16,7 +16,7 @@ username = 'put your email username here i.e. user@gmail.com'
 password = 'password here'
 
 # path to ouput file name (leave off the extention)
-ouput_filename = '/Users/gjenkins/Desktop/all_email' # output of all data, note extension is on next variable
+ouput_filename = '/Users/you/Desktop/all_email' # output of all data, note extension is on next variable
 output_type = 'json' # any other setitng will output csv to the extention
 
 imapAddress = 'imap.gmail.com'
