@@ -6,6 +6,11 @@ import time
 import json
 import csv
 
+# see blog article https://teklern.blogspot.com/2017/11/download-all-your-email-information.html for instructions
+# just run add you username and password and configure below for ouput_filename path, and output_type to json or csv
+# and run
+
+
 # Settings
 username = 'put your email username here i.e. user@gmail.com'
 password = 'password here'
