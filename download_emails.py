@@ -5,6 +5,7 @@ import email.header
 import time
 import json
 import csv
+# By Gerry Jenkins see my channel and subscribe (please) @  youtube.com/gjenkinslbcc
 
 # see blog article https://teklern.blogspot.com/2017/11/download-all-your-email-information.html for instructions
 # just run add you username and password and configure below for ouput_filename path, and output_type to json or csv
